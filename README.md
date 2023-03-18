@@ -3,10 +3,10 @@
 <img src="image/main.jpg">
 <hr>
 <h1>ScreenShots:</h1>
-<img src="image/ss1.jpg">
-<img src="image/ss2.jpg">
-<img src="image/ss3.jpg">
-<img src="image/ss4.jpg">
+<img src="image/ss1.JPG">
+<img src="image/ss2.JPG">
+<img src="image/ss3.JPG">
+<img src="image/ss4.JPG">
 <hr>
 
 # 2023-01-24 (Version 0.3)
